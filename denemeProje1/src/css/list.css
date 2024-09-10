@@ -1,0 +1,37 @@
+.list-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.list{
+    width: 230px;
+    height: 350px;
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 5px;
+    /* border-radius: 20px; */
+}
+.list h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.list p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.list-price{
+    font-weight: bold;
+    color: red;
+    text-align: right;
+    padding-right: 20px;
+}
+.list-link{
+    text-decoration: none;
+    font-size: 12px;
+    text-align: right;
+    padding-right: 20px;
+}
+.list-link a{
+    text-decoration: none;
+}
